@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suzannah</h1>
 <h3 align="center">A passionate full-stack developer from the UK working on improving and gaining new skills</h3>
 
+<img align='right' src='https://media.giphy.com/media/ot5GPcBAcMUxELU8yx/giphy.gif'>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzi01&label=Profile%20views&color=0e75b6&style=flat" alt="suzi01" /> </p>
 
 - 🔭 I’m currently working on **my profile page**
