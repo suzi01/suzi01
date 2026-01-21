@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzi01&label=Profile%20views&color=0e75b6&style=flat" alt="suzi01" /> </p>
 
-- 🔭 I’m currently working on **my profile page**
+- 🔭 I’m currently working on **Food Company projecr**
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, React**
+- 🌱 I’m currently learning **Azure and FastAPI*
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **React**
 
-- 📫 How to reach me **suzannahthompson@hotmail.co.uk**
+- 📫 How to reach me -  through LinkdIn
 
 - ⚡ Fun fact **I've been going grey since 20**
 
